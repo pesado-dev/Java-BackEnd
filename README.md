@@ -1,0 +1,1 @@
+Repositório dedicado aos meus estudos e projetos em desenvolvimento backend com Java. Aqui compartilho meus códigos, desafios resolvidos e progressos na jornada para me tornar um desenvolvedor backend mais experiente.
